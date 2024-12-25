@@ -384,6 +384,7 @@
         "weight": 25
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceComment": "备用：https://www.23qb.net",
         "bookSourceName": "铅笔小说",
         "bookSourceType": 0,
@@ -435,6 +436,7 @@
         "weight": 25
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceComment": "博爱文学https://m.boaiwx.com/\n瓜书阁https://m.guashuge.com\n笔字阅读https://m.biziyd.com",
         "bookSourceName": "艾途小说",
         "bookSourceType": 0,
@@ -487,6 +489,7 @@
         "weight": 0
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceComment": "备用地址：https://sma.yueyouxs.com",
         "bookSourceName": "阅友小说",
         "bookSourceType": 0,
@@ -540,6 +543,7 @@
         "weight": 0
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceName": "就爱文学",
         "bookSourceType": 0,
         "bookSourceUrl": "http://www.92xs.info",
@@ -592,6 +596,7 @@
         "weight": 0
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceName": "八一中文",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.81zw2.com",
@@ -633,6 +638,7 @@
         "weight": 0
     },
     {
+        "bookSourceGroup": "正常",
         "bookSourceName": "武林中文网",
         "bookSourceType": 0,
         "bookSourceUrl": "https://www.50zw.so",
